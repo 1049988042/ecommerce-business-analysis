@@ -1,5 +1,8 @@
 # 电商经营分析 | ecommerce-business-analysis
 
+> **作品集定位**：BI 与可视化能力展示，重点体现 Excel、Power Query 数据整理、Tableau Relationship 建模及从 GMV 异常到支付环节的逐层排查。**数据为模拟业务数据**；仪表盘中的全量 KPI 与局部筛选结果须区别理解，不能将异常定位解释为已确认的系统故障。可直接查看下方 Dashboard 和打包 Tableau 工作簿。
+
+
 基于 **Excel / Power Query / Tableau** 的数据分析求职作品集，围绕经营指标拆解、异常定位和可视化，追踪 2025 年电商 GMV 下滑对应的业务环节。
 
 **项目使用模拟业务数据，不是真实企业生产数据。** 不涉及真实企业背景、上线效果或业务收益承诺。
